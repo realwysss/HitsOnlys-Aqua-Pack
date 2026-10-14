@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/better_tiny_generated",
+  "textures": {
+    "layer0": "minecraft:item/porkchop"
+  }
+}
